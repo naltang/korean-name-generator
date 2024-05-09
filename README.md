@@ -54,6 +54,6 @@ $korean-name-generator.py --sex male -d , -c 10 -f ex-family.csv -g ex-given.csv
 MIT license
 
 ## Data Source
-Family name data in _family-names.csv_ were retrieved from
-https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN15SD
+Family name data in _family-names.csv_ were retrieved from \
+https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN15SD \
 and _given-names.csv_ from https://efamily.scourt.go.kr/
